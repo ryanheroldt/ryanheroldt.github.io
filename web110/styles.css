@@ -1,6 +1,9 @@
 body {
-  background-color: #FF5733 ;
+  background-color: lightblue;
 }
 
-
+h6 {
+  color: navy;
+  margin-left: 20px;
+}
 
